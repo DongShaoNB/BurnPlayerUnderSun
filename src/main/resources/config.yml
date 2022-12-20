@@ -2,7 +2,3 @@
 enable: true
 # 燃烧时间
 burntime: 5
-# 检查更新
-check-update: true
-# 配置文件版本 请勿擅自更改
-version: 1

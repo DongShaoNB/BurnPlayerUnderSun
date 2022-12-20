@@ -6,7 +6,7 @@
 
     <groupId>cn.dsnbo</groupId>
     <artifactId>BurnPlayerUnderSun</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>BurnPlayerUnderSun</name>
@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>dsnbo.cn</url>
+    <url>www.dsnbo.cn</url>
 
     <build>
         <plugins>

@@ -1,6 +1,7 @@
 name: BurnPlayerUnderSun
 version: '${project.version}'
 main: cn.dsnbo.burnplayerundersun.BurnPlayerUnderSun
+api-version: 1.17
 authors: [ DongShaoNB ]
 description: Burn players when they are under sun
-website: dsnbo.cn
+website: www.dsnbo.cn
